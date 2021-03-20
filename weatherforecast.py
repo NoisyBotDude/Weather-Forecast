@@ -24,15 +24,4 @@ if x["cod"] != "404":
           str(current_humidity) + "Percent"
                                   "\n probability of " +
           str(weather_description))
-    # print("For Detail Information, Go To https://openweathermap.org/find?q=Udalguri")
-    # os.startfile("C:\\Program Files\\WindowsApps\\Microsoft.BingWeather_4.45.22232.0_x64__8wekyb3d8bbwe\\"
-    #              "Microsoft.Msn.Weather")
-    # speak(" Temperature is = " +
-    #       str(current_temperature) +
-    #       "\n But It Feels Like " +
-    #       str(current_feelslike) +
-    #       "\n humidity is " +
-    #       str(current_humidity) + "%"
-    #                               "\n Probability of  " +
-    #       str(weather_description))
-    # speak("For Detail Information, Go To The Link Given")
+    
