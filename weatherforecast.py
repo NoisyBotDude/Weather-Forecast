@@ -1,7 +1,7 @@
 import requests
 # from main import speak
 
-api_key = "5d52a94d4dcb8a2a52599d68a443e1f7"  # Place Your Api Here
+api_key = "5d52a94d4dcb8a2a52599d68a44*****"  # Place Your Api Here
 """Go to openweathermap Website, register and get your own free api with 50 requests per day"""
 base_url = "https://api.openweathermap.org/data/2.5/weather?"
 print("Enter Your City Name")
